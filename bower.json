@@ -1,0 +1,23 @@
+{
+  "name": "gazzz-radio",
+  "version": "0.0.0",
+  "authors": [
+    "Max Thorson <max.thorson@gmail.com>"
+  ],
+  "description": "GazzzRadio development",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.19",
+    "angular-route": "~1.2.19",
+    "jquery": "~2.1.1"
+  }
+}
